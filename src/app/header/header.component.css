@@ -1,0 +1,92 @@
+#it-ce{
+    width: 100px;
+    height: 100px;
+
+   
+}
+
+#nav{
+    height: 1000px;
+    border-right: 2px solid red;
+    width: 250px;
+    margin-left: 0px;
+  
+
+    
+    margin-top: 0px;
+    float: left;
+}
+
+h3{
+font-size: 30px;
+font-style: italic;
+color: red;
+
+
+
+
+}
+
+
+.nav{
+    margin-bottom: 140px;
+    text-align: center;
+    font-size: 25px;
+    color: silver;
+    display: block;
+}
+#navbar{
+    margin-top: 100px;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+    margin-left: 100px;
+}
+a{
+    color: silver;
+    
+}
+
+
+.it{
+    text-align: center;
+}
+
+h5{
+    float: right;
+    margin-right: 50px;
+    
+}
+
+.rsx{
+    display: inline-block;
+    margin: 10px;
+    margin-left: 35px;
+    
+}
+
+#reseaux{
+    margin-top: 50px;
+    border-top: 3px solid purple;
+    border-bottom: 3px solid purple;
+    background-color: azure;
+}
+a:link 
+{ 
+ text-decoration:none;
+
+
+} 
+
+
+#tabBord{
+
+    margin-left: 50px;
+    color: purple;
+}
+#dash{
+    margin-top: 30px;
+    font-family: Chalkduster, fantasy ;
+}

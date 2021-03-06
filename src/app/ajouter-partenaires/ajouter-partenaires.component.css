@@ -1,0 +1,41 @@
+#modifier{
+    margin-left: 250px;
+    height: 2000px;
+    background-color:#5b345e;
+    margin-top: 0px;
+    border-top: 2px solid white;
+}
+
+h1{
+
+   font-size: 50px;
+   color: silver;
+   padding: 60px;
+   padding-bottom: 0px;
+   text-align: center;
+}
+.modif{
+    
+    margin: auto;
+    text-align: center;
+        
+
+}
+h2{
+    color: white;
+    padding: 60px;
+    text-align: center;
+
+    display:inline-block;
+    
+    
+    margin: 10px;
+}
+
+a:link 
+{ 
+ text-decoration:none;
+ color: white;
+
+
+} 
